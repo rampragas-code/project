@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../web"
+		},
+		{
+			"path": "../../TailWind"
+		},
+		{
+			"path": "../../Nepal Wanders"
+		},
+		{
+			"path": "../../FoodDX"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project",
+		"screencastMode.verticalOffset": 0,
+		"screencastMode.fontSize": 50,
+		"liveServer.settings.port": 5501
+	}
+}
